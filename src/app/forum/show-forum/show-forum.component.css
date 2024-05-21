@@ -1,0 +1,8 @@
+.small-image {
+    width: 50px; /* Set the desired width */
+    height:50; /* Set the desired height */
+  }
+  .medium-size {
+    width: 800px; /* Adjust the width as needed */
+    height: 300px; /* Maintain aspect ratio */
+}
